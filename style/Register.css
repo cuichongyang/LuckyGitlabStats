@@ -1,0 +1,100 @@
+#register_outer{
+    width: 290px;
+    height: 545px;
+    background: white;
+    line-height: 50px;
+    font-size: 30px;
+    color: #FFFFFF;
+    border-radius: 10px;
+    padding: 20px 0px 0px 50px;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    opacity: 0.8;
+}
+#register_head{
+    width: 100%;
+    height: 40px;
+    color: #40434B;;
+    margin: -20px;
+    align-content: center;
+    font-size:33px ;
+    font-family: "Times New Roman";
+    position: relative;top:20px;
+}
+#register_img{
+    background-image:url("../Photo/2.jpg") ;
+    background-size:cover;
+    height:100%;
+
+}
+#register_hr {
+    height: 1px;
+    border: none;
+    align-items: center;
+    border-top: 1px solid #dddddd;
+    position: relative;
+    left: -20px;
+    top: 40px;
+}
+#register_text{
+    margin-top: 50px;
+    margin-left: -10px;
+}
+#register_sex{
+    color:  darkgrey;
+    font-size: 13px;
+    height: 25px;
+    font-weight: 100;
+}
+#register_submit{
+    margin-left: 50px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+#register_nav{
+    margin-left: 150px;
+    position: absolute;
+    bottom: 15px;
+}
+#register_link{
+    text-decoration: none;
+    font-size: 14px;
+    color:deepskyblue;
+    font-family: Cambria;
+}
+#register_repassword{
+    font-size: 12px;
+    color: red;
+    margin-top: -5px;
+    line-height: 9px;
+    font-family: Consolas;
+}
+#register_password{
+    font-size: 12px;
+    color: red;
+    margin-top: -5px;
+    line-height: 9px;
+    font-family: Consolas;
+}
+#register_email{
+    font-size: 12px;
+    color: red;
+    margin-top: -5px;
+    line-height: 9px;
+    font-family: Consolas;
+}
+#register_name{
+    font-size: 12px;
+    color: red;
+    margin-top: -5px;
+    line-height: 9px;
+    font-family: Consolas;
+}
+#register_testSex{
+    font-size: 12px;
+    color: red;
+    margin-top: -5px;
+    line-height: 9px;
+    font-family: Consolas;
+}

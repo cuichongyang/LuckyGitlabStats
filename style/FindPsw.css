@@ -1,0 +1,112 @@
+#findPsw{
+    background: #F1F1F1;
+    height: 100px;
+    width: 100%;
+    display: block;
+}
+#findPsw_left{
+    float: left;
+}
+.findPsw_title{
+    font-family: DokChampa;
+    font-size: 33px;
+    color: #357ad5;
+    float: left;
+    line-height: 30px;
+    margin-top: 36px;
+    margin-left: 40px;
+    white-space: nowrap;
+}
+#findPsw_right{
+    position:absolute;
+    left: 1100px;
+    top: 40px;
+    font-family: Cambria;
+    font-size: 20px;
+    float: left;
+    white-space: nowrap;
+}
+#findPsw_form{
+    background: #FFFFFF;
+    height: 500px;
+    width: 100%;
+    padding: 50px;
+    position:relative;
+}
+.findPsw_inform{
+    position:absolute;
+    top:40px;
+    left:300px;
+    font-family: Consolas;
+    font-size: 20px;
+    white-space: nowrap;
+}
+#findPsw_usmInput{
+    margin-top: 20px;
+    position:relative;
+}
+.findPsw_username{
+    position:absolute;
+    top:40px;
+    left:400px;
+    font-size: 15px;
+}
+.findPsw_textField1{
+    position:absolute;
+    top:32px;
+    left:495px;
+}
+#findPsw_emailInput{
+    margin-top: 50px;
+    position:relative;
+}
+.findPsw_emailText{
+    position:absolute;
+    top:90px;
+    left:434px;
+    font-size: 15px;
+}
+.findPsw_textField3{
+    position:absolute;
+    top:80px;
+    left:495px;
+}
+#findPsw_check{
+    position:relative;
+    margin-top: 130px;
+}
+.findPsw_vcode{
+    width: 140px;
+    position:absolute;
+    top:90px;
+    left:351px;
+    font-size: 15px;
+}
+.findPsw_textField2{
+    position:absolute;
+    top:80px;
+    left:495px;
+}
+#findPsw_button{
+    position: absolute;
+    top:350px;
+    left:533px;
+}
+.findPsw_error{
+    font-family: Consolas;
+    font-size: 15px;
+    color: red;
+    width: auto;
+}
+#code
+{
+    font-family:Arial;
+    font-style:italic;
+    font-weight:bold;
+    letter-spacing:2px;
+    color:blue;
+    position: absolute;
+    top:262px;
+    left: 710px;
+   background-color:darkseagreen;
+}

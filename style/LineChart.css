@@ -1,0 +1,31 @@
+.Line_chart_title{
+    width: 55%;
+    height: 40px;
+    background: #0099FF;
+    line-height: 30px;
+    font-size: 30px;
+    color: #FFFFFF;
+    border-radius: 3px;
+    margin: 10px auto;
+}
+.tick
+{
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 100;
+    font-stretch: normal;
+    font-size: 10px;
+    line-height: 52px;
+    font-family: 微软雅黑;
+}
+.y{  font-style: normal;
+    font-variant: normal;
+    font-weight: 100;
+    font-stretch: normal;
+    font-size: 5px;
+    line-height: 52px;
+    font-family: 微软雅黑;}
+.barchart_local
+{
+    padding-top: 40px;
+}

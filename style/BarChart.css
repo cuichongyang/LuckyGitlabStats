@@ -1,0 +1,69 @@
+#outer{
+    margin-top: -7px;
+    height: 600px;
+}
+#textSuccess{
+    width: 60px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 825px;
+    font-family: Consolas;
+}
+#remindSuccess{
+    width: 13px;
+    height: 13px;
+    background-color: rgb(31,119,180);
+    float: left;
+    margin-top: -16px;
+    margin-left: 890px;
+}
+#textFail{
+    width: 60px;
+    float: left;
+    margin-top: 0px;
+    margin-left: 825px;
+    font-family: Consolas;
+}
+#remindFail{
+    width: 13px;
+    height: 13px;
+   background-color: rgb(174,199,232);
+    float: left;
+    margin-top: -16px;
+    margin-left: 890px;
+}
+.ribbon {
+    display: inline-block;
+    width: 48%;
+    height: 20px;
+    position: relative;
+    float: left;
+    background-size: cover;
+    text-transform: uppercase;
+    color: white;
+}
+.ribbon3 {
+    display: inline-block;
+    position: absolute;
+    width: 920px;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 0px;
+    background: lightblue;
+    left: 0px;
+    top: 0px;
+}
+.axis {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font: 11px sans-serif;
+    fill: #888;
+    stroke: none;
+    font-weight: bold;
+}
+
+

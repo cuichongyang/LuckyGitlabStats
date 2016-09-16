@@ -1,0 +1,117 @@
+#projectList_project{
+    font-family: 微软雅黑;
+    font-size: 15px;
+    white-space:nowrap;
+
+}
+#projectList_left{
+    float: left;
+    margin-top: 30px;
+}
+.projectList_title{
+    margin-bottom: 10px;
+    margin-top: -35px;
+    color: #FFFFFF;
+    margin-left: 40px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 100;
+    font-stretch: normal;
+    font-size: 20px;
+    line-height: 70px;
+    font-family: 微软雅黑;
+    white-space: nowrap;
+    width: 100px;
+    height: 40px;
+    align-items: center;
+
+}
+#projectList_header{
+    height: 52px;
+    background-color: #4285F4;
+    width: 100%;
+    display: block;
+    position: fixed;
+    top:0;
+    box-shadow: 0 3px 3px rgba(0,0,0,0.06);
+    z-index: 100;
+}
+#projectList_list{
+    width: 100%;
+    background-color: rgb(230,237,245);
+    margin-top: 50px;
+    z-index: 70;
+
+}
+.projectList_edit{
+    margin-top: -3px;
+    margin-left: 500px;
+    width: 10px;
+    height: 10px;
+    float: right;
+}
+#projectList_right{
+    width: 300px;
+    float: left;
+    margin-top: -34px;
+    margin-left: 970px;
+}
+#projectList_searchSvg{
+    margin-top: -20px;
+    width: 30px;
+    vertical-align:middle;
+    text-align: center;
+    margin-left: -1px;
+    cursor: pointer;
+
+}
+#projectList_input{
+    width: 100px;
+    height: 50px;
+    vertical-align:middle;
+
+}
+#input{
+    height: 30px;
+}
+#search{
+    height: 30px;
+    margin-top:2px;
+    margin-left: 180px;
+    z-index: 100;
+
+}
+
+#projectList_projectBtn{
+    background-color: rgb(205,68,120);
+    border-color: black;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 6px 10px;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    white-space: nowrap;
+    text-decoration: none;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 107px;
+    height: 35px;
+    text-align: center;
+    line-height: 24px;
+    margin-left:1095px;
+    margin-top: 8px;
+
+}
+.projectList_section{
+    width:400px;
+    margin-left: -97px;
+    margin-top: 0px;
+    height: 30px;
+}
+#select{
+    height: 20px;
+
+}

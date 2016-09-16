@@ -1,0 +1,62 @@
+.app_ul
+{
+    height: 50px;
+    width: 80%;
+}
+#app_left
+{
+    width: 20%;
+    height: 100%;
+    background-color: #999999;
+    float: left;
+}
+#app_right
+{
+    width: 80%;
+    height: auto;
+    background-color: #bbbbbb;
+    float: right;
+}
+.app_chartarea
+{
+    background: #ffffff;
+    width: 920px;
+    height: 457px;
+    margin: 108px auto;
+    box-shadow: 0px 0px 1px rgba(0,0,0,0.1), 0px 2px 1px rgba(0,0,0,0.1);
+}
+.app_datatable
+{
+    background: #ffffff;
+    width: 920px;
+    height: 480px;
+    margin:auto;
+    margin-top: 30px;
+    box-shadow: 0px 0px 1px rgba(0,0,0,0.1), 0px 2px 1px rgba(0,0,0,0.1);
+}
+.app_areachart
+{
+    background: #ffffff;
+    width: 920px;
+    margin: 60px auto 10px;
+}
+.app_piechart
+{
+    background: #ffffff;
+    width: 920px;
+    height: 480px;
+    margin: auto;
+    margin-top: 30px;
+    box-shadow: 0px 0px 1px rgba(0,0,0,0.1), 0px 2px 1px rgba(0,0,0,0.1);
+}
+.app_issuetable
+{
+    background: #ffffff;
+    width: 920px;
+    height: 480px;
+    margin-top: 107px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+

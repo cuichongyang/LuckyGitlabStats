@@ -1,0 +1,25 @@
+#issueTable_issue{
+    margin-top: 80px;
+}
+#issueTable_title{
+    display: inline-block;
+    width: 48%;
+    height: 20px;
+    position: relative;
+    float: left;
+    background-size: cover;
+    text-transform: uppercase;
+    color: white;
+    margin-top: -32px;
+}
+.issueTable_text{
+    display: inline-block;
+    position: absolute;
+    width: 920px;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 0px;
+    background: lightblue;
+    left: 0px;
+    top: 0px;
+}

@@ -1,0 +1,44 @@
+style{
+    margin-right: 32px;
+    margin-bottom: 32px;
+    float: left;
+    position: relative;
+    z-Index: 0;
+}
+.singleMember {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: 0.7em;
+    font-weight: bold;
+    border-right: 1px solid #666;
+    padding: 0;
+    margin-bottom: 1em;
+    background-color: #999999;
+    color: #333;
+    width: 100%;
+}
+.singleMember ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.singleMember ul li {
+    margin: 0;
+    border-top: 1px solid #003;
+    width: 250px;
+    height: 50px;
+}
+.singleMember ul li a {
+    display: block;
+    padding: 0px 2px 5px 0.5em;
+    border-bottom: 1px solid #369;
+    background-color: #999999;
+    color: #fff;
+    text-decoration: none;
+    width: 100%;
+    height: 58px;
+    text-align: center;
+    line-height: 58px;
+}
+html>body .singleMember ul li a {
+    width: auto;
+}

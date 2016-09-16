@@ -1,0 +1,44 @@
+element.style
+{
+width:85%;
+  margin: 0 auto;
+}
+
+.app {
+text-align: center;
+}
+
+.app ul {
+  margin: auto;
+}
+.app li {
+  margin: 0 45px 10px 0;
+  padding: 0;
+  list-style: none;
+  display: inline-block;
+  background: #F1F1F1;
+}
+.app a {
+  padding: 3px 12px;
+  text-decoration: none;
+  line-height: 100%;
+color: black;
+}
+
+.app a:active {
+  color: #fff;
+}
+
+.App a:hover {
+  color: #777777;
+}
+
+.active {
+  color: #fff;
+  background: #fff;
+}
+html>body
+{
+ background: #f1f1f1;
+}
+
